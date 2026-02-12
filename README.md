@@ -1,2 +1,2 @@
-# ✨기니코드월드에 오신걸 환영합니다
+# ✨ Welcome to GuineaCodes World
 --
